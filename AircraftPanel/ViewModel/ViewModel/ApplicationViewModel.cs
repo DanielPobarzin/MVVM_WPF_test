@@ -11,8 +11,8 @@ using ViewModel.ViewModelValidator;
 
 namespace ViewModel
 {
-	public class ApplicationViewModel : INotifyPropertyChanged
-    {
+	public class ApplicationViewModel : IApplicationViewModel
+	{
 		private readonly IDateTimeService _dateTimeService;
 		private readonly ICommandService _commandService;
 

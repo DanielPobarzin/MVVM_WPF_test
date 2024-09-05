@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApplicationPanel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bfdc495835b29428ecae86aef7f8ad42c41baad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de3b343661c24eacbfb1bfe3c145702b5203f515")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApplicationPanel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApplicationPanel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

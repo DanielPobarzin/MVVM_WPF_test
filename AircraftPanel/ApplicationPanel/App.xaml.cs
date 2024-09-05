@@ -1,18 +1,15 @@
-﻿using Serilog;
+﻿using FluentValidation;
+using Microsoft.Extensions.DependencyInjection;
+using Models.DTOs;
+using Serilog;
 using Serilog.Events;
-using System.Windows;
 using Serilog.Sinks.SystemConsole.Themes;
 using System.Runtime.InteropServices;
+using System.Windows;
 using ViewModel;
-using ViewModel.Services;
-using Models.DTOs;
-using Microsoft.Extensions.DependencyInjection;
-using FluentValidation;
-using Models.ModelsValidator;
 using ViewModel.Interfaces;
+using ViewModel.Services;
 using ViewModel.ViewModelValidator;
-using ApplicationPanel;
-using System;
 
 namespace ApplicationPanel
 {
@@ -37,7 +34,7 @@ namespace ApplicationPanel
 			services.AddSingleton<IDateTimeService, DateTimeService>();
 			services.AddSingleton<ICommandService, CommandService>();
 
-			services.AddSingleton<ApplicationViewModel>();
+			services.AddSingleton<IApplicationViewModel, ApplicationViewModel>();
 
 			services.AddSingleton<MainWindow>();
 
@@ -48,12 +45,14 @@ namespace ApplicationPanel
 			base.OnStartup(e);
 
 			AllocConsole();
-
 			Log.Logger = new LoggerConfiguration()
 			.MinimumLevel.Debug()
 			.WriteTo.Console(theme: SystemConsoleTheme.Colored, restrictedToMinimumLevel: LogEventLevel.Information)
 			.CreateLogger();
 			Log.Information("Start application...");
+
+			ServiceProvider.GetRequiredService<MainWindow>().SetViewModel(ServiceProvider.GetRequiredService<IApplicationViewModel>());
+			ServiceProvider.GetRequiredService<MainWindow>().Show();
 		}
 		protected override void OnExit(ExitEventArgs e)
 		{

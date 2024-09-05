@@ -47,3 +47,16 @@ C:\All\Learning\tasks_C#\AircraftPanel\Models\obj\Debug\net8.0-windows\Models.dl
 C:\All\Learning\tasks_C#\AircraftPanel\Models\obj\Debug\net8.0-windows\refint\Models.dll
 C:\All\Learning\tasks_C#\AircraftPanel\Models\obj\Debug\net8.0-windows\Models.pdb
 C:\All\Learning\tasks_C#\AircraftPanel\Models\obj\Debug\net8.0-windows\ref\Models.dll
+D:\Develop\App\MVVM_WPF_test\AircraftPanel\Models\bin\Debug\net8.0-windows\Models.deps.json
+D:\Develop\App\MVVM_WPF_test\AircraftPanel\Models\bin\Debug\net8.0-windows\Models.dll
+D:\Develop\App\MVVM_WPF_test\AircraftPanel\Models\bin\Debug\net8.0-windows\Models.pdb
+D:\Develop\App\MVVM_WPF_test\AircraftPanel\Models\obj\Debug\net8.0-windows\Models.csproj.AssemblyReference.cache
+D:\Develop\App\MVVM_WPF_test\AircraftPanel\Models\obj\Debug\net8.0-windows\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop\App\MVVM_WPF_test\AircraftPanel\Models\obj\Debug\net8.0-windows\Models.AssemblyInfoInputs.cache
+D:\Develop\App\MVVM_WPF_test\AircraftPanel\Models\obj\Debug\net8.0-windows\Models.AssemblyInfo.cs
+D:\Develop\App\MVVM_WPF_test\AircraftPanel\Models\obj\Debug\net8.0-windows\Models.csproj.CoreCompileInputs.cache
+D:\Develop\App\MVVM_WPF_test\AircraftPanel\Models\obj\Debug\net8.0-windows\Models.sourcelink.json
+D:\Develop\App\MVVM_WPF_test\AircraftPanel\Models\obj\Debug\net8.0-windows\Models.dll
+D:\Develop\App\MVVM_WPF_test\AircraftPanel\Models\obj\Debug\net8.0-windows\refint\Models.dll
+D:\Develop\App\MVVM_WPF_test\AircraftPanel\Models\obj\Debug\net8.0-windows\Models.pdb
+D:\Develop\App\MVVM_WPF_test\AircraftPanel\Models\obj\Debug\net8.0-windows\ref\Models.dll

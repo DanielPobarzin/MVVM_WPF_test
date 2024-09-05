@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W2BJG5v9MSGd3jkzJepoSlzGTPEEmstliS1jE7rreQ0PJNRCLxtS3s7I7Qx+d9bXj8l8fD2T9SSn6GdcSU6Jyw==",
+  "dgSpecHash": "G9q00aGOMbc=",
   "success": true,
-  "projectFilePath": "C:\\All\\Learning\\tasks_C#\\AircraftPanel\\Tests\\Tests.csproj",
+  "projectFilePath": "D:\\Develop\\App\\MVVM_WPF_test\\AircraftPanel\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Даниил\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Даниил\\.nuget\\packages\\diffengine\\11.3.0\\diffengine.11.3.0.nupkg.sha512",

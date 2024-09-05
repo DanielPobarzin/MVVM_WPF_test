@@ -12,20 +12,97 @@
   <Class Name="ApplicationPanel.App">
     <Position X="4" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>IAAAAAAAAAAAAAgAAAAAAAAAEAAQAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>IAAAAAAAAAAAAAgAAAAAAAAAAAAQAAAAAQAACAAAAAA=</HashCode>
       <FileName>App.xaml.cs</FileName>
     </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ServiceProvider" />
+    </ShowAsAssociation>
   </Class>
   <Class Name="ApplicationPanel.MainWindow">
-    <Position X="4.25" Y="3.25" Width="1.5" />
+    <Position X="3.75" Y="3.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAQAAIAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
       <FileName>View\MainWindow.xaml.cs</FileName>
     </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_viewModel" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="System.Windows.Threading.DispatcherObject" Collapsed="true">
     <Position X="11.5" Y="0.75" Width="1.5" />
     <TypeIdentifier />
   </Class>
+  <Class Name="ViewModel.Commands.RelayCommand" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ViewModel.ApplicationViewModel">
+    <Position X="8" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="CloseCommand" />
+      <Property Name="LoadPassengersCommand" />
+      <Property Name="MaxCommand" />
+      <Property Name="MoveWindowCommand" />
+      <Property Name="Validator" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ViewModel.ViewModelValidator.AirplanePassengerValidator">
+    <Position X="12.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ViewModel.Services.CommandService">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="CloseCommand" />
+      <Property Name="LoadPassengersCommand" />
+      <Property Name="MaxCommand" />
+      <Property Name="MoveWindowCommand" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ViewModel.Services.DateTimeService">
+    <Position X="0.75" Y="4" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ViewModel.Services.DefaultDialogService" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ViewModel.Services.JsonFileService" Collapsed="true">
+    <Position X="2.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="System.IServiceProvider" Collapsed="true">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="ViewModel.Interfaces.IApplicationViewModel">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="CloseCommand" />
+      <Property Name="MaxCommand" />
+      <Property Name="MoveWindowCommand" />
+      <Property Name="LoadPassengersCommand" />
+    </ShowAsAssociation>
+  </Interface>
+  <Interface Name="ViewModel.Interfaces.ICommandService">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="CloseCommand" />
+      <Property Name="LoadPassengersCommand" />
+      <Property Name="MaxCommand" />
+      <Property Name="MoveWindowCommand" />
+    </ShowAsAssociation>
+  </Interface>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
