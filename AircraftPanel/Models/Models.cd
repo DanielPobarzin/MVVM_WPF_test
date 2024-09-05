@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Models.DTOs.AirplanePassenger">
+    <Position X="9" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAA=</HashCode>
+      <FileName>DTOs\AirplanePassenger.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Passenger" />
+      <Property Name="Flight" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Models.Human.Passenger" Collapsed="true">
+    <Position X="8.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAACAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Human\Passenger.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Human.Person">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEABGAAAAAAAAAAIAEAAAAAgAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Human\Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Travelling.Flight" Collapsed="true">
+    <Position X="10.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAACAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Travelling\Flight.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Travelling.Travelling">
+    <Position X="10.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAIAAAAAAAwAAIAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Travelling\Travelling.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

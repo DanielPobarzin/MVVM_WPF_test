@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X287GiO69FYk2LbTiGSyENSDg+D1+VSbAWMsVp8UhV6A4rMq60LKVc7/FFdx315oqFMJ9ra0wAxcNRCP2dYQ0w==",
+  "success": true,
+  "projectFilePath": "C:\\All\\Learning\\tasks_C#\\AircraftPanel\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Даниил\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

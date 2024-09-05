@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ViewModel.ApplicationViewModel">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <AssociationLine Name="Passengers" Type="System.Collections.ObjectModel.ObservableCollection&lt;T&gt;">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.541" Y="0.073" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAQhMQQAIAACAAAAgUAQAAQAAAABkgAAIAI=</HashCode>
+      <FileName>ViewModel\ApplicationViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Passengers" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ViewModel.Services.DateTimeService">
+    <Position X="12.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\DateTimeService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.3" />
+  </Class>
+  <Class Name="ViewModel.Services.DefaultDialogService">
+    <Position X="12.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAEAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Services\DefaultDialogService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.3" />
+  </Class>
+  <Class Name="ViewModel.ViewModel.Helpers.CommandHelper">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <AssociationLine Name="CloseAppCommand" Type="ViewModel.Services.Commands.RelayCommand" FixedToPoint="true">
+      <Path>
+        <Point X="10.5" Y="2.938" />
+        <Point X="12.5" Y="2.938" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="MaxAppCommand" Type="ViewModel.Services.Commands.RelayCommand" FixedToPoint="true">
+      <Path>
+        <Point X="10.5" Y="2.188" />
+        <Point X="12.5" Y="2.188" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="MoveWindowCommand" Type="ViewModel.Services.Commands.RelayCommand" FixedToPoint="true">
+      <Path>
+        <Point X="10.5" Y="1.5" />
+        <Point X="12.5" Y="1.5" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>QASAIAAgAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAIgA=</HashCode>
+      <FileName>ViewModel\Helpers\CommandHelper.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="CloseAppCommand" />
+      <Property Name="MaxAppCommand" />
+      <Property Name="MoveWindowCommand" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ViewModel.Services.Commands.RelayCommand">
+    <Position X="12.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAQAAEAEAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Commands\RelayCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Collections.ObjectModel.ObservableCollection&lt;T&gt;" Collapsed="true">
+    <Position X="9" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ViewModel.Services.JsonFileService">
+    <Position X="12.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\JsonFileService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.275" />
+  </Class>
+  <Class Name="ViewModel.Services.AirplanePassengerValidator">
+    <Position X="10.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\AirplanePassangerValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ViewModel.Services.IDateTimeService">
+    <Position X="14.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\IDateTimeService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ViewModel.Services.IDialogService">
+    <Position X="14.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAEAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Services\IDialogService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ViewModel.Services.IFileService&lt;T&gt;">
+    <Position X="14.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\IFileService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

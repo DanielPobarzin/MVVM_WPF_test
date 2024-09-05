@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Develop\\App\\OBEH_Test\\PassangerApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B36FB6AE-451E-4512-A880-8C0B813579D5}|View.csproj|d:\\develop\\app\\obeh_test\\passangerapplication\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B36FB6AE-451E-4512-A880-8C0B813579D5}|View.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36FB6AE-451E-4512-A880-8C0B813579D5}|PassangerApplication.csproj|d:\\develop\\app\\obeh_test\\passangerapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B36FB6AE-451E-4512-A880-8C0B813579D5}|PassangerApplication.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36FB6AE-451E-4512-A880-8C0B813579D5}|View.csproj|d:\\develop\\app\\obeh_test\\passangerapplication\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36FB6AE-451E-4512-A880-8C0B813579D5}|View.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36FB6AE-451E-4512-A880-8C0B813579D5}|View.csproj|d:\\develop\\app\\obeh_test\\passangerapplication\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36FB6AE-451E-4512-A880-8C0B813579D5}|View.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C23FEA-9839-4480-96AF-9DBD242FE961}|..\\ViewModel\\ViewModel.csproj|d:\\develop\\app\\obeh_test\\viewmodel\\viewmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36FB6AE-451E-4512-A880-8C0B813579D5}|PassangerApplication.csproj|d:\\develop\\app\\obeh_test\\passangerapplication\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36FB6AE-451E-4512-A880-8C0B813579D5}|PassangerApplication.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36FB6AE-451E-4512-A880-8C0B813579D5}|View.csproj|d:\\develop\\app\\obeh_test\\passangerapplication\\view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B36FB6AE-451E-4512-A880-8C0B813579D5}|View.csproj|solutionrelative:view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C23FEA-9839-4480-96AF-9DBD242FE961}|..\\ViewModel\\ViewModel.csproj|d:\\develop\\app\\obeh_test\\viewmodel\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\Models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\All\\Learning\\TestOVEN\\ApplicationTest\\ViewModel\\Services\\Commands\\RelayCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\All\\Learning\\TestOVEN\\ApplicationTest\\ViewModel\\Services\\JsonFileService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\All\\Learning\\TestOVEN\\ApplicationTest\\ViewModel\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\All\\Learning\\TestOVEN\\ApplicationTest\\ViewModel\\Services\\DefaultDialogService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\All\\Learning\\TestOVEN\\ApplicationTest\\ViewModel\\Services\\IDialogService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\Phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\All\\Learning\\TestOVEN\\ApplicationTest\\ViewModel\\Services\\IFileService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\DTOs\\RecordAirplanePassenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\DTOs\\Flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\DTOs\\Passanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\Travelling\\Travalling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\Human\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Develop\\App\\OBEH_Test\\PassangerApplication\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\Develop\\App\\OBEH_Test\\PassangerApplication\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:05:39.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Develop\\App\\OBEH_Test\\PassangerApplication\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "D:\\Develop\\App\\OBEH_Test\\PassangerApplication\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:05:09.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Develop\\App\\OBEH_Test\\PassangerApplication\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\Develop\\App\\OBEH_Test\\PassangerApplication\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-03T17:05:03.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewModel",
+              "DocumentMoniker": "D:\\Develop\\App\\OBEH_Test\\ViewModel\\ViewModel.csproj",
+              "RelativeDocumentMoniker": "..\\ViewModel\\ViewModel.csproj",
+              "ToolTip": "D:\\Develop\\App\\OBEH_Test\\ViewModel\\ViewModel.csproj",
+              "RelativeToolTip": "..\\ViewModel\\ViewModel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T17:08:03.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Develop\\App\\OBEH_Test\\PassangerApplication\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\Develop\\App\\OBEH_Test\\PassangerApplication\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-03T13:46:29.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PassangerApplication.csproj",
+              "DocumentMoniker": "D:\\Develop\\App\\OBEH_Test\\PassangerApplication\\View.csproj",
+              "RelativeDocumentMoniker": "View.csproj",
+              "ToolTip": "D:\\Develop\\App\\OBEH_Test\\PassangerApplication\\View.csproj",
+              "RelativeToolTip": "View.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T15:01:27.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Develop\\App\\OBEH_Test\\PassangerApplication\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\Develop\\App\\OBEH_Test\\PassangerApplication\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:46:26.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Develop\\App\\OBEH_Test\\ViewModel\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ViewModel\\Class1.cs",
+              "ToolTip": "D:\\Develop\\App\\OBEH_Test\\ViewModel\\Class1.cs",
+              "RelativeToolTip": "..\\ViewModel\\Class1.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAA1wB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:43:47.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\ViewModel\\Services\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\ViewModel\\Services\\Commands\\RelayCommand.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:53:34.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JsonFileService.cs",
+              "DocumentMoniker": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\ViewModel\\Services\\JsonFileService.cs",
+              "ToolTip": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\ViewModel\\Services\\JsonFileService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:53:15.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Models.csproj",
+              "DocumentMoniker": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\Models.csproj",
+              "ToolTip": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\Models.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T15:01:22.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\ViewModel\\Class1.cs",
+              "ToolTip": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\ViewModel\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:08:14.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DefaultDialogService.cs",
+              "DocumentMoniker": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\ViewModel\\Services\\DefaultDialogService.cs",
+              "ToolTip": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\ViewModel\\Services\\DefaultDialogService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:52:41.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDialogService.cs",
+              "DocumentMoniker": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\ViewModel\\Services\\IDialogService.cs",
+              "ToolTip": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\ViewModel\\Services\\IDialogService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:52:51.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\Phone.cs",
+              "ToolTip": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\Phone.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:55:12.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\ViewModel\\Services\\IFileService.cs",
+              "ToolTip": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\ViewModel\\Services\\IFileService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:53:03.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RecordAirplanePassenger.cs",
+              "DocumentMoniker": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\DTOs\\RecordAirplanePassenger.cs",
+              "ToolTip": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\DTOs\\RecordAirplanePassenger.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:37:02.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\DTOs\\Flight.cs",
+              "ToolTip": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\DTOs\\Flight.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:35:36.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Passanger.cs",
+              "DocumentMoniker": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\DTOs\\Passanger.cs",
+              "ToolTip": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\DTOs\\Passanger.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:34:51.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Travalling.cs",
+              "DocumentMoniker": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\Travelling\\Travalling.cs",
+              "ToolTip": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\Travelling\\Travalling.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:30:19.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\Human\\Person.cs",
+              "ToolTip": "C:\\All\\Learning\\TestOVEN\\ApplicationTest\\Models\\Human\\Person.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:03:05.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
